@@ -6,12 +6,12 @@ Welcome to my submission for Task 1 of the Data Science Internship at Prodigy In
 The dataset used for this task is World Population dataset. This dataset contains records of population from the year 2001 to 2022.
 
 ## Tools and Libraries used:
-Jupyter notebook
-Pandas
-Numpy
-Matplotlip & Seaborn for visualization
-Exploratory Data Analysis (EDA)
-During the EDA process, I performed the following steps:
+1) Jupyter notebook 
+2) Pandas 
+3) Numpy 
+4) Matplotlib & Seaborn for visualization
+
+During the Visualization process, I performed the following steps:
 
 ### Data Cleaning:
 Checked for missing values, duplicates in the dataset and handled them accordingly.
@@ -19,6 +19,6 @@ Checked for missing values, duplicates in the dataset and handled them according
 ### Visualization: 
 Created a bar chart to visualize the distribution of the population in terms of total, male, and female counts.
 ## Conclusion
-In conclusion, this EDA process provided valuable insights into the distribution of the selected variable in the dataset. This analysis lays the foundation for further exploration and modeling tasks in the data science workflow.
+In conclusion, this visualization process provided valuable insights into the distribution of the selected variable in the dataset. This analysis lays the foundation for further exploration and modeling tasks in the data science workflow.
 
 ### Thank you for reviewing my submission!

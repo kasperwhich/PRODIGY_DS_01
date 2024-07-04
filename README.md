@@ -1,5 +1,5 @@
 # PRODIGY_DS_01
-
+## Introduction
 Welcome to my submission for Task 1 of the Data Science Internship at Prodigy Infotech. In this task, I created a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population
 
 ## Dataset:
